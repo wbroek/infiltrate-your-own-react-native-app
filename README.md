@@ -21,3 +21,4 @@ The tools shown and mentioned in the talk
 - [Hopper](https://www.hopperapp.com)
 - [JadX](https://github.com/skylot/jadx)
 - [Codepush CLI](https://github.com/microsoft/react-native-code-push)
+- [ProxyMan](https://proxyman.io)
